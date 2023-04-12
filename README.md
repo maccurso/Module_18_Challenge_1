@@ -33,6 +33,8 @@ To use the application clone the repository, open up a new terminal, navigate to
 
 ![Streamlit Screenshot 2](Streamlit_Screenshots/streamlit_2.png)
 
+---
+
 ## Contributors
 
 Created by Maximus Accurso
